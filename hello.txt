@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Git!!
+=======
+Hello from featurezxcgit
+>>>>>>> 124f02a (Change greeting in featuree)
 이건 세번째 커밋을 보려는구간
-이건 네번째 커밋을 보려는구간
+이건 네번째 커밋을 보려는구간git
